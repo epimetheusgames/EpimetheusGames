@@ -22,16 +22,21 @@ Epimetheus Games is currently working on the Season 17 of the Oregon Game Projec
 - Liam Siegel: Art, SFX
 - Ranier Szatlocky: Moral Support
 
+# New Members From Flying Goose Games For Season 18!
+
+- Sequoia Haynes: Programming
+- Kai Benson: Programming, Art, Co-Team Lead
+- Xavier: Programming
+
 ### Past Team Members
 
 - Noah Johnson-Green: Programming, Art, Music
 
 ## Repositories
 
-- Game Repositories: OGPC-Season-16 (EyeSore, migrated from it's original home on Gitlab) and OGPC-Season-17 (Project Prometheus).
+- Game Repositories: OGPC-Season-16 (EyeSore, migrated from it's original home on GitLab), OGPC-Season-17 (Project Prometheus), and OGPC-Season-18 (Not yet a game)
 - Website: website-main, hosted through Render.
-- Titan: A 2D game engine made in Python with Raylib Python Bindings, made for creating linear, level-based games.
-- Launcher: Archived game launcher made in python.
+- Titan: A 2D game engine made in Python with Raylib Python Bindings and Chipmunk Python Bindings (Pymunk) made for creating linear, level-based games.
 
 ## Playtesters
 
@@ -40,8 +45,8 @@ Thank you to all our playtesters for our games of which there are many! All of t
 - Cosmo Zodrow
 - Forwd Tegethoff
 - Sequoia Haynes
-- Flynn
-- May
+- Flynn Gorman
+- May Rau
 - Isaac Phillips (Special Thanks: Really good ideas)
 - Francesca Wrobel (Special Thanks: Our Teacher!)
 - John Bates
