@@ -22,7 +22,7 @@ Epimetheus Games is currently working on the Season 17 of the Oregon Game Projec
 - Liam Siegel: Art, SFX
 - Ranier Szatlocky: Moral Support
 
-# New Members From Flying Goose Games For Season 18!
+### New Members From Flying Goose Games For Season 18!
 
 - Sequoia Haynes: Programming
 - Kai Benson: Programming, Art, Co-Team Lead
