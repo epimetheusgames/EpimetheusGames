@@ -22,7 +22,7 @@ Based in Portland, OR, Epimetheus Games is a small game not-yet-company that con
 
 ## Repositories
 
-- Game Repositories: OGPC-Season-16 (EyeSore, migrated from it's original home on GitLab), OGPC-Season-17 (Project Prometheus), and OGPC-Season-18 (Not yet a game)
+- Game Repositories: EyeSore, migrated from it's original home on GitLab, Project Prometheus, and OGPC-Season-18 (Not yet a game)
 - Website: website-main, hosted through Render.
 - Titan: A 2D game engine made in Python with Raylib Python Bindings and Chipmunk Python Bindings (Pymunk) made for creating linear, level-based games.
 
