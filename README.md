@@ -1,8 +1,6 @@
 # Epimetheus Games
 
-Email us at [epimetheusgamesogpc@gmail.com](mailto:epimetheusgamesogpc@gmail.com);
-Check out our [website](https://epimetheus.games);
-Watch our few videos on our [Youtube Channel](https://www.youtube.com/@epimetheusgamesogpc);
+Contact us at [epimetheusgamesogpc@gmail.com](mailto:epimetheusgamesogpc@gmail.com), check out our [website](https://epimetheus.games), and watch our few videos on our [Youtube Channel](https://www.youtube.com/@epimetheusgamesogpc)!
 
 ## About Us
 
