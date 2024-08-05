@@ -1,20 +1,14 @@
-# Epimetheus-Games
+# Epimetheus Games
 
-Email us at epimetheusgamesogpc@gmail.com;
-Check out our website at https://epimetheus.games;
-Watch our few videos on our Youtube channel, https://www.youtube.com/channel/UCGNrGh3oehft0XLMpx3MTvA;
-Star our repository if you want ...
+Email us at [epimetheusgamesogpc@gmail.com](mailto:epimetheusgamesogpc@gmail.com);
+Check out our [website](https://epimetheus.games);
+Watch our few videos on our [Youtube Channel](https://www.youtube.com/@epimetheusgamesogpc);
 
 ## About Us
 
-Based in Portland, OR, Epimetheus Games is a small game not-yet-company that consists of a few middle schoolers. It started out as a team for the Oregon Game Project Challenge, and is now...
-...still a team for the Oregon Game Project Challenge! We have currently made 1 game, EyeSore, and are working on another for OGPC Season 17.
-
-Epimetheus Games is currently working on the Season 17 of the Oregon Game Project Challenge, and a demo of our game will be released on our website probably around May 18, 2024.
+Based in Portland, OR, Epimetheus Games is a small game not-yet-company that consists of a team of five talented middle schoolers. We have currently made 2 games that have both won Best in Show in the Oregon Game Project Challenge: EyeSore and Project Prometheus. You can play both of them on our itch page.
 
 ## Members
-
-### Current Members
 
 - Carson Bates: Team Lead, Programming
 - Elouan Grimm: Publicity, Level Design
@@ -27,10 +21,6 @@ Epimetheus Games is currently working on the Season 17 of the Oregon Game Projec
 - Sequoia Haynes: Programming
 - Kai Benson: Programming, Art, Co-Team Lead
 - Xavier: Programming
-
-### Past Team Members
-
-- Noah Johnson-Green: Programming, Art, Music
 
 ## Repositories
 
@@ -48,7 +38,8 @@ Thank you to all our playtesters for our games of which there are many! All of t
 - Flynn Gorman
 - May Rau
 - Isaac Phillips (Special Thanks: Really good ideas)
-- Francesca Wrobel (Special Thanks: Our Teacher!)
+- Francesca Wrobel (Special Thanks: Our Team Manager!)
 - John Bates
 - Jennifer Pourchot
+- Lenzo Grimm
 - And more!
